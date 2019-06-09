@@ -1,5 +1,5 @@
 ## Movie Trailer website:
-This site contain my favourite movies in one page and show the trailer by clicking on it.
+Server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL. This code generates a static web page allowing visitors to browse the movies and watch the trailers.
 
 ## Code style:
 This project written in python and follow PEP-8 Guidelines
@@ -10,11 +10,10 @@ This project written in python and follow PEP-8 Guidelines
 
 ## Installation:
 
-Download the project to your local machine or using fork to git a copy in your repo
+Download the project to your local machine or using fork to git a copy in your repo.
 ##### NOTE:
-Do not forget to download poster image folder, otherwise the website would not show the poster of the movie
+Do not forget to download poster image folder, otherwise the website would not show the poster of the movie.
 
 ## Run:
 
-Open the HTML fresh_tomatoes file using any web browser
-
+Open the HTML index file using any web browser
